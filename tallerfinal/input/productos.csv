@@ -1,0 +1,1201 @@
+id_producto,nombre,categoria,precio
+1,  PRODUCTO 1,Ropa,1249.23
+2,Producto 2,ALIMENTOS,539.8
+3,producto 3,Deportes,2067.64
+4,PRODUCTO 4  ,Juguetes,1695.65
+5,producto 5,  Deportes  ,2576.16
+6,Producto 6  ,Hogar  ,353.31
+7,  Producto 7,ALIMENTOS  ,2357.21
+8,  PRODUCTO 8  ,juguetes  ,2020.88
+9,Producto 9,Electro,345.92
+10,  Producto 10,  deportes,2084.77
+11,Producto 11  ,,1325.2
+12,  producto 12,ropa  ,2835.01
+13,  Producto 13  ,  belleza,425.69
+14,Producto 14  ,  Deportes  ,1928.86
+15,  producto 15,  Hogar,1146.56
+16,Producto 16  ,electro,2870.49
+17,  producto 17,JUGUETES,990.59
+18,Producto 18  ,  Deportes,2886.6
+19,producto 19,  DEPORTES,2704.56
+20,  Producto 20,  desconocida,811.88
+21,,  belleza  ,2410.82
+22,PRODUCTO 22  ,Juguetes  ,2986.82
+23,Producto 23  ,  Belleza,758.74
+24,  Producto 24,electro,1310.89
+25,PRODUCTO 25,Juguetes,1561.02
+26,PRODUCTO 26  ,Juguetes  ,885.5
+27,  producto 27,ROPA  ,46.78
+28,Producto 28,Hogar,661.17
+29,  PRODUCTO 29  ,  Deportes,846.53
+30,Producto 30,  Ropa,1331.36
+31,producto 31,  HOGAR  ,514.14
+32,producto 32,  JUGUETES,2619.89
+33,Producto 33,DEPORTES,2115.03
+34,producto 34,  DESCONOCIDA  ,256.52
+35,  Producto 35,HOGAR  ,1950.63
+36,Producto 36  ,  Juguetes  ,1961.32
+37,PRODUCTO 37,juguetes  ,2868.71
+38,  Producto 38,Ropa,10.06
+39,PRODUCTO 39  ,Ropa,744.55
+40,Producto 40,  BELLEZA  ,2783.45
+41,  PRODUCTO 41,,2796.47
+42,  PRODUCTO 42  ,Electro,2162.04
+43,,  Alimentos,2297.52
+44,  PRODUCTO 44,Alimentos,275.36
+45,producto 45  ,Deportes,1542.11
+46,Producto 46  ,  deportes,695.52
+47,Producto 47  ,Belleza,544.47
+48,PRODUCTO 48  ,Deportes  ,2431.1
+49,producto 49  ,Hogar,405.98
+50,Producto 50,Belleza  ,1406.49
+51,producto 51,  Belleza,2815.8
+52,producto 52  ,Juguetes,558.31
+53,  producto 53,Juguetes  ,2934.0
+54,  producto 54,  Juguetes  ,2982.87
+55,producto 55  ,  electro  ,1667.3
+56,PRODUCTO 56,HOGAR,511.26
+57,  Producto 57,Hogar  ,949.0
+58,Producto 58,  Juguetes,1274.05
+59,Producto 59  ,alimentos,928.66
+60,producto 60,electro,842.63
+61,producto 61  ,Alimentos  ,2916.72
+62,Producto 62,  ropa  ,460.94
+63,producto 63,Hogar,2200.25
+64,producto 64,HOGAR  ,2.23
+65,  Producto 65  ,Alimentos  ,1788.95
+66,Producto 66,  ELECTRO  ,2747.91
+67,  Producto 67  ,  Hogar,864.51
+68,  Producto 68  ,  Alimentos,557.39
+69,PRODUCTO 69,Belleza  ,1955.39
+70,producto 70,belleza,2138.09
+71,Producto 71,Deportes,2064.4
+72,Producto 72  ,Electro  ,958.63
+73,producto 73  ,Alimentos,757.36
+74,Producto 74  ,  DEPORTES  ,2867.8
+75,producto 75  ,  belleza  ,2769.98
+76,producto 76,  Electro  ,1372.49
+77,  Producto 77,deportes,2538.74
+78,Producto 78  ,  Juguetes  ,1357.52
+79,Producto 79  ,Electro  ,1273.74
+80,  PRODUCTO 80,,471.13
+81,Producto 81  ,,1279.79
+82,PRODUCTO 82  ,  Deportes,1612.71
+83,PRODUCTO 83,Alimentos,68.49
+84,Producto 84  ,juguetes,1332.89
+85,PRODUCTO 85,JUGUETES,2344.29
+86,PRODUCTO 86,  Deportes,2040.46
+87,PRODUCTO 87,  alimentos  ,1905.84
+88,producto 88,,2728.76
+89,  Producto 89,  Belleza  ,55.08
+90,  Producto 90,Ropa,1671.59
+91,  Producto 91,alimentos,2362.26
+92,  PRODUCTO 92,Hogar,1624.46
+93,  Producto 93,  Hogar  ,972.36
+94,Producto 94,ropa  ,409.62
+95,PRODUCTO 95,Electro,2662.8
+96,  producto 96,Deportes  ,1412.82
+97,  Producto 97,  ELECTRO,2634.47
+98,Producto 98,Hogar,1757.97
+99,PRODUCTO 99,  alimentos  ,2022.9
+100,PRODUCTO 100  ,,2412.98
+101,Producto 101,electro  ,1977.81
+102,PRODUCTO 102  ,  ELECTRO,1194.77
+103,Producto 103,  DEPORTES,1541.39
+104,Producto 104  ,  Juguetes,2409.33
+105,producto 105,  hogar,1121.58
+106,  Producto 106,  Alimentos  ,1164.98
+107,  producto 107,  ROPA  ,0.0
+108,producto 108  ,Electro  ,2743.84
+109,  PRODUCTO 109  ,DEPORTES  ,274.02
+110,Producto 110,Juguetes  ,1944.98
+111,  Producto 111  ,Hogar,1240.17
+112,producto 112,  Hogar,1217.45
+113,Producto 113,deportes,2038.98
+114,Producto 114,  Ropa  ,202.21
+115,  PRODUCTO 115,Electro,1781.52
+116,PRODUCTO 116  ,  Ropa  ,2316.32
+117,PRODUCTO 117  ,  Deportes  ,2484.81
+118,Producto 118,DEPORTES,512.42
+119,  Producto 119,Ropa,2692.36
+120,PRODUCTO 120,Belleza  ,1968.78
+121,producto 121  ,,2645.68
+122,  PRODUCTO 122,hogar,1456.36
+123,  Producto 123  ,Belleza  ,1626.56
+124,producto 124  ,  alimentos,2757.2
+125,PRODUCTO 125,  HOGAR,2699.83
+126,PRODUCTO 126,  Desconocida  ,1345.03
+127,Producto 127,JUGUETES,823.96
+128,producto 128  ,Alimentos  ,1180.12
+129,  PRODUCTO 129,Electro,1163.91
+130,  Producto 130  ,Alimentos,861.31
+131,PRODUCTO 131  ,  ELECTRO,806.47
+132,  producto 132,Alimentos  ,2583.33
+133,PRODUCTO 133,Ropa,210.52
+134,  Producto 134,Deportes,2033.16
+135,  Producto 135  ,ALIMENTOS,519.29
+136,Producto 136  ,Belleza  ,1034.17
+137,  Producto 137  ,  Belleza,185.57
+138,  Producto 138,  Juguetes,810.65
+139,PRODUCTO 139  ,  deportes,2305.49
+140,PRODUCTO 140  ,deportes,2655.16
+141,producto 141  ,  electro  ,665.36
+142,  PRODUCTO 142  ,Hogar,1391.18
+143,PRODUCTO 143  ,  juguetes,1411.5
+144,  producto 144,Belleza  ,2620.85
+145,  PRODUCTO 145,belleza,2288.63
+146,Producto 146,  desconocida,1539.72
+147,Producto 147,,2012.57
+148,  Producto 148,  Belleza  ,2542.22
+149,PRODUCTO 149,Electro,29.61
+150,Producto 150  ,Belleza  ,1209.27
+151,Producto 151  ,Hogar  ,2721.82
+152,  Producto 152,Ropa  ,2221.2
+153,Producto 153,  Juguetes,1628.98
+154,  Producto 154,,1589.4
+155,  Producto 155,hogar  ,1043.96
+156,Producto 156,  Ropa  ,1562.04
+157,  Producto 157  ,  DEPORTES  ,1966.49
+158,  producto 158,juguetes  ,1255.67
+159,PRODUCTO 159  ,Hogar  ,2142.75
+160,Producto 160  ,Belleza,2583.84
+161,PRODUCTO 161,  ROPA  ,464.9
+162,  Producto 162,  deportes,1355.19
+163,  producto 163,Juguetes  ,1224.65
+164,Producto 164,  Alimentos,2062.71
+165,Producto 165,Electro,750.35
+166,Producto 166,Belleza,1921.11
+167,Producto 167  ,  Ropa,2632.59
+168,PRODUCTO 168  ,electro  ,1254.98
+169,Producto 169,Deportes  ,2733.14
+170,Producto 170,Deportes,2979.5
+171,Producto 171,  ALIMENTOS  ,319.17
+172,Producto 172,Hogar,699.93
+173,PRODUCTO 173,Hogar  ,2851.19
+174,PRODUCTO 174,Juguetes,2875.02
+175,  Producto 175,ropa,294.02
+176,  producto 176,ROPA,-99.99
+177,  Producto 177  ,Deportes  ,484.14
+178,producto 178,  JUGUETES,2988.04
+179,Producto 179,Electro,540.82
+180,producto 180,  Hogar,1508.14
+181,PRODUCTO 181  ,  hogar,2545.4
+182,producto 182,deportes,62.18
+183,  Producto 183  ,  Ropa  ,1813.86
+184,  Producto 184,deportes  ,831.8
+185,,  Ropa,2587.14
+186,Producto 186  ,Juguetes  ,851.1
+187,PRODUCTO 187  ,ALIMENTOS,0.0
+188,producto 188  ,  Electro,2022.98
+189,Producto 189,  Belleza,665.26
+190,  Producto 190  ,  alimentos  ,105.36
+191,PRODUCTO 191  ,  Alimentos,1228.34
+192,  Producto 192  ,Ropa,868.29
+193,Producto 193,Ropa,2427.12
+194,PRODUCTO 194,  ropa,2401.29
+195,Producto 195,,-99.99
+196,  Producto 196  ,Deportes  ,1819.93
+197,Producto 197,  ELECTRO  ,1813.17
+198,Producto 198  ,Deportes  ,2481.65
+199,Producto 199,Ropa,1275.58
+200,  Producto 200  ,Hogar  ,827.06
+201,Producto 201  ,Deportes,795.84
+202,PRODUCTO 202,  Electro,1609.04
+203,  Producto 203  ,Hogar,1348.0
+204,  PRODUCTO 204  ,Electro  ,1320.92
+205,producto 205,Ropa,274.32
+206,  producto 206  ,  Deportes,2156.09
+207,  Producto 207  ,  belleza,642.0
+208,  Producto 208,JUGUETES  ,591.66
+209,PRODUCTO 209,  Ropa,-99.99
+210,Producto 210  ,ALIMENTOS,684.11
+211,Producto 211,  desconocida,1751.99
+212,Producto 212,  Alimentos,1115.02
+213,PRODUCTO 213,Electro,1347.29
+214,producto 214,  Alimentos,1611.97
+215,  Producto 215  ,  belleza,611.4
+216,  Producto 216,  BELLEZA,468.1
+217,  Producto 217,  ROPA  ,2641.39
+218,  producto 218  ,,1301.74
+219,Producto 219,ropa,1236.87
+220,Producto 220  ,Electro,107.8
+221,Producto 221,  alimentos,1494.43
+222,Producto 222  ,hogar  ,1662.95
+223,Producto 223  ,Deportes,1676.96
+224,producto 224,juguetes,2121.39
+225,producto 225,Belleza  ,533.27
+226,producto 226  ,hogar  ,757.42
+227,  PRODUCTO 227  ,deportes  ,2432.38
+228,PRODUCTO 228  ,Hogar,2841.56
+229,  Producto 229  ,,408.66
+230,PRODUCTO 230  ,  DEPORTES  ,1493.45
+231,producto 231,Juguetes  ,643.31
+232,Producto 232,  belleza  ,181.16
+233,  producto 233  ,  electro,977.18
+234,  Producto 234  ,,431.92
+235,  Producto 235  ,Hogar,2130.09
+236,  PRODUCTO 236,  DEPORTES  ,1601.64
+237,Producto 237  ,  Hogar  ,432.36
+238,  producto 238,ALIMENTOS,28.72
+239,  producto 239,  juguetes,2424.66
+240,producto 240,  Belleza,529.41
+241,producto 241,  hogar,1819.04
+242,  Producto 242  ,  Alimentos,1011.43
+243,Producto 243  ,  deportes  ,1756.87
+244,Producto 244  ,  JUGUETES,947.65
+245,Producto 245  ,BELLEZA,261.73
+246,  PRODUCTO 246,electro,669.63
+247,Producto 247,  alimentos  ,564.99
+248,  Producto 248  ,  Deportes  ,1284.63
+249,  Producto 249  ,JUGUETES,1975.19
+250,producto 250  ,  Alimentos  ,792.15
+251,  Producto 251,,37.2
+252,Producto 252,  ROPA  ,1557.29
+253,Producto 253  ,  Electro,1817.67
+254,producto 254,  Hogar  ,2888.65
+255,producto 255  ,HOGAR,1768.82
+256,PRODUCTO 256  ,Deportes  ,1414.05
+257,producto 257,  Deportes,1720.63
+258,,juguetes  ,2783.77
+259,,  DEPORTES,2485.31
+260,  Producto 260  ,alimentos  ,969.61
+261,Producto 261,ELECTRO  ,712.53
+262,Producto 262,hogar,788.64
+263,Producto 263  ,Juguetes,1513.76
+264,producto 264,  Electro  ,2232.4
+265,producto 265  ,  Deportes  ,1510.15
+266,  PRODUCTO 266  ,DEPORTES  ,204.32
+267,  Producto 267  ,Alimentos  ,2171.02
+268,  PRODUCTO 268  ,Deportes  ,2418.1
+269,  PRODUCTO 269  ,Hogar,869.2
+270,  producto 270  ,BELLEZA,1992.71
+271,,Hogar,1280.35
+272,PRODUCTO 272  ,HOGAR,2667.47
+273,producto 273,Deportes,2535.83
+274,  PRODUCTO 274,electro,1576.77
+275,  PRODUCTO 275  ,deportes,2074.83
+276,Producto 276  ,  Electro  ,2650.17
+277,Producto 277,Electro,1487.66
+278,  PRODUCTO 278,  Electro,940.44
+279,Producto 279  ,JUGUETES  ,2261.24
+280,Producto 280  ,Ropa,660.98
+281,Producto 281,  Deportes,1166.2
+282,Producto 282  ,  JUGUETES,2597.32
+283,  producto 283,HOGAR,2173.54
+284,Producto 284  ,juguetes  ,1212.03
+285,Producto 285,alimentos  ,645.02
+286,producto 286,Belleza,1068.55
+287,Producto 287,Electro,853.03
+288,producto 288,deportes,529.09
+289,  PRODUCTO 289,Alimentos  ,2230.26
+290,  Producto 290,deportes,756.96
+291,  producto 291,  Belleza,1363.05
+292,producto 292,  alimentos,1158.19
+293,Producto 293  ,deportes  ,2946.25
+294,Producto 294,  hogar,1173.89
+295,  Producto 295,electro  ,240.87
+296,  Producto 296  ,  ALIMENTOS  ,270.39
+297,PRODUCTO 297  ,hogar,1772.67
+298,  Producto 298,ELECTRO  ,1798.49
+299,  PRODUCTO 299,  Ropa,1256.86
+300,  Producto 300  ,hogar  ,1296.1
+301,  producto 301,Juguetes  ,162.74
+302,producto 302  ,DEPORTES  ,1550.12
+303,producto 303,Electro  ,1514.71
+304,  PRODUCTO 304,Alimentos  ,449.5
+305,  Producto 305  ,  Belleza  ,312.41
+306,  producto 306,  alimentos  ,371.59
+307,  Producto 307,  JUGUETES,303.98
+308,  Producto 308,  Deportes,1829.51
+309,Producto 309,JUGUETES,590.25
+310,producto 310  ,  alimentos,755.04
+311,  Producto 311  ,  Deportes  ,521.54
+312,,BELLEZA,2873.55
+313,Producto 313,  Electro  ,2564.0
+314,Producto 314,  Deportes,692.25
+315,PRODUCTO 315  ,  Hogar,983.37
+316,Producto 316,  DEPORTES,630.47
+317,  producto 317,  juguetes  ,1476.14
+318,producto 318,,59.81
+319,  PRODUCTO 319  ,JUGUETES  ,2014.43
+320,  Producto 320,Belleza  ,1569.95
+321,Producto 321,DEPORTES,2696.02
+322,producto 322,  deportes  ,494.01
+323,Producto 323  ,ROPA  ,2412.52
+324,  producto 324,  Belleza,2376.09
+325,Producto 325  ,electro,382.42
+326,PRODUCTO 326  ,  Electro,1196.28
+327,producto 327  ,electro  ,511.29
+328,Producto 328  ,Electro,764.91
+329,  producto 329,Electro,790.48
+330,  Producto 330  ,  ALIMENTOS  ,1669.15
+331,producto 331,  JUGUETES  ,1234.82
+332,producto 332  ,  belleza,2843.25
+333,  producto 333,alimentos  ,379.98
+334,  producto 334,Belleza  ,2921.1
+335,Producto 335  ,Ropa  ,692.69
+336,PRODUCTO 336  ,DEPORTES,2318.85
+337,Producto 337  ,  Hogar,1017.57
+338,PRODUCTO 338  ,  JUGUETES  ,430.1
+339,  Producto 339  ,ROPA  ,2573.81
+340,Producto 340,alimentos  ,927.27
+341,  producto 341  ,,1976.91
+342,  Producto 342,Deportes  ,1699.76
+343,  producto 343,Ropa,1415.8
+344,  Producto 344,  deportes,1487.96
+345,producto 345,  Deportes  ,2196.98
+346,  PRODUCTO 346,Belleza,264.23
+347,Producto 347,  Hogar,2004.87
+348,PRODUCTO 348  ,Belleza,2687.54
+349,Producto 349,DEPORTES  ,174.31
+350,Producto 350,Ropa  ,422.82
+351,  PRODUCTO 351  ,DEPORTES  ,2150.18
+352,  producto 352,  ALIMENTOS,1312.41
+353,Producto 353,DEPORTES  ,1211.24
+354,Producto 354  ,DESCONOCIDA,411.76
+355,PRODUCTO 355  ,HOGAR  ,1520.8
+356,Producto 356,ropa,380.51
+357,PRODUCTO 357,  Belleza  ,1430.38
+358,PRODUCTO 358,  deportes,2291.08
+359,Producto 359  ,Alimentos,775.53
+360,PRODUCTO 360,  juguetes,1442.88
+361,  Producto 361,ALIMENTOS,2976.06
+362,  Producto 362  ,  Deportes,2060.26
+363,Producto 363,Alimentos,2524.23
+364,Producto 364,Juguetes,1245.13
+365,  Producto 365,ALIMENTOS,2303.81
+366,Producto 366  ,  juguetes,122.49
+367,  producto 367  ,  deportes  ,369.61
+368,Producto 368  ,Juguetes,610.01
+369,  Producto 369,Belleza,1206.45
+370,Producto 370,  BELLEZA  ,2537.39
+371,  Producto 371,  Juguetes,1039.45
+372,  PRODUCTO 372,  ropa,1964.21
+373,PRODUCTO 373,  Hogar,2128.23
+374,,Ropa,1758.96
+375,  Producto 375  ,JUGUETES  ,1072.37
+376,producto 376,Hogar  ,1731.58
+377,PRODUCTO 377  ,,-99.99
+378,  producto 378,Hogar,252.54
+379,PRODUCTO 379  ,JUGUETES,2978.42
+380,  Producto 380,Belleza,382.42
+381,  Producto 381,Hogar,217.97
+382,  PRODUCTO 382  ,  Hogar,2635.71
+383,  Producto 383,ropa,906.2
+384,producto 384,hogar  ,1951.24
+385,,Deportes  ,987.69
+386,Producto 386,Juguetes,1174.97
+387,producto 387,Electro  ,787.08
+388,Producto 388  ,  ELECTRO  ,1029.79
+389,Producto 389,Electro,1232.69
+390,  Producto 390  ,  JUGUETES,2161.53
+391,Producto 391  ,  Electro,1535.1
+392,  Producto 392,ROPA,2830.75
+393,Producto 393,Juguetes,126.6
+394,  Producto 394,  Deportes,1509.7
+395,  Producto 395  ,  Belleza,1753.09
+396,PRODUCTO 396,Deportes,2760.67
+397,  Producto 397,  JUGUETES  ,148.43
+398,Producto 398  ,  juguetes,1720.93
+399,PRODUCTO 399  ,  hogar  ,2561.04
+400,Producto 400  ,Hogar  ,726.54
+401,  PRODUCTO 401,  HOGAR,2629.0
+402,PRODUCTO 402,alimentos  ,58.11
+403,  Producto 403,  Ropa  ,2197.63
+404,Producto 404,JUGUETES  ,2799.41
+405,PRODUCTO 405,deportes,1971.94
+406,Producto 406,Juguetes  ,1317.65
+407,PRODUCTO 407  ,Hogar,135.6
+408,PRODUCTO 408,Juguetes,2760.42
+409,Producto 409,Belleza  ,1411.42
+410,PRODUCTO 410,  Juguetes  ,87.96
+411,PRODUCTO 411,DEPORTES,2069.77
+412,PRODUCTO 412  ,Electro,1446.03
+413,  PRODUCTO 413  ,  Belleza,373.91
+414,  Producto 414  ,  BELLEZA  ,0.0
+415,  producto 415,juguetes,194.41
+416,  producto 416  ,alimentos,1723.31
+417,Producto 417,hogar,1866.47
+418,PRODUCTO 418,ropa,1517.72
+419,producto 419  ,Ropa  ,2451.49
+420,  Producto 420,  Electro,2583.17
+421,PRODUCTO 421,Ropa,1847.26
+422,Producto 422,Ropa  ,39.26
+423,  producto 423,HOGAR  ,2085.99
+424,Producto 424,  HOGAR  ,1254.58
+425,Producto 425,,1697.11
+426,Producto 426,  deportes  ,1947.59
+427,  producto 427,Electro,1051.36
+428,  Producto 428,ropa,2751.38
+429,  Producto 429,alimentos  ,402.79
+430,  Producto 430,Electro,2014.86
+431,Producto 431  ,Belleza  ,14.07
+432,Producto 432  ,Ropa,2774.03
+433,PRODUCTO 433,,338.4
+434,Producto 434  ,Hogar  ,285.56
+435,  producto 435,Juguetes  ,999.69
+436,Producto 436  ,  Electro,1121.33
+437,Producto 437  ,ROPA  ,643.69
+438,  Producto 438,electro  ,1755.78
+439,Producto 439,Deportes  ,1329.3
+440,  Producto 440,ALIMENTOS,103.49
+441,Producto 441  ,,959.64
+442,  producto 442,Juguetes,2431.49
+443,Producto 443  ,Ropa,2069.41
+444,producto 444,DEPORTES,2174.89
+445,producto 445,  hogar,2094.65
+446,  PRODUCTO 446  ,  ropa,933.61
+447,Producto 447,Electro,299.89
+448,  Producto 448  ,belleza,818.13
+449,Producto 449  ,ALIMENTOS  ,2495.52
+450,Producto 450,  Electro,2941.43
+451,,Juguetes,1482.05
+452,  Producto 452  ,alimentos,30.09
+453,Producto 453  ,Hogar,420.99
+454,  Producto 454,  alimentos,966.92
+455,Producto 455,Belleza  ,-99.99
+456,  Producto 456,Deportes,226.21
+457,PRODUCTO 457,  Ropa,2830.13
+458,Producto 458  ,BELLEZA,1095.89
+459,  producto 459,DEPORTES,2737.84
+460,PRODUCTO 460,belleza  ,2341.78
+461,Producto 461,ROPA,2266.56
+462,  producto 462,ALIMENTOS,1820.55
+463,  Producto 463,Juguetes,1880.72
+464,producto 464  ,Ropa  ,1914.37
+465,producto 465,Ropa,1886.54
+466,  Producto 466,  DEPORTES  ,1661.63
+467,  producto 467  ,  HOGAR,2959.26
+468,Producto 468,  ALIMENTOS  ,2197.14
+469,,  Ropa,2331.06
+470,producto 470  ,Juguetes,2617.52
+471,PRODUCTO 471,Electro  ,647.7
+472,producto 472,ALIMENTOS  ,252.33
+473,producto 473,Hogar,1449.2
+474,producto 474,,1542.73
+475,producto 475  ,ropa  ,2487.72
+476,  Producto 476  ,  Juguetes  ,1331.91
+477,PRODUCTO 477  ,  Alimentos  ,1712.99
+478,  producto 478,  Juguetes,1581.69
+479,Producto 479,Juguetes,115.57
+480,Producto 480,  Deportes,1846.03
+481,,Belleza,2484.3
+482,  Producto 482,Hogar  ,473.34
+483,PRODUCTO 483  ,Alimentos,1783.4
+484,Producto 484,ROPA  ,1781.24
+485,  Producto 485,Hogar,493.39
+486,  PRODUCTO 486,  ROPA,371.27
+487,producto 487,Electro  ,2940.18
+488,producto 488,  Juguetes,1181.76
+489,  producto 489  ,electro,683.04
+490,  Producto 490,DEPORTES,514.8
+491,  producto 491  ,  Juguetes,2003.14
+492,  Producto 492  ,BELLEZA,1828.73
+493,  PRODUCTO 493  ,Hogar  ,1931.01
+494,  Producto 494,  Ropa,264.93
+495,PRODUCTO 495,Deportes  ,2680.71
+496,,  Belleza,1168.41
+497,  Producto 497,ROPA  ,940.79
+498,producto 498  ,  HOGAR,1387.62
+499,Producto 499,  ALIMENTOS,1170.81
+500,producto 500,  Deportes,2590.87
+501,  PRODUCTO 501  ,  Electro,2787.85
+502,  Producto 502  ,Electro,911.06
+503,Producto 503  ,  Ropa,2591.94
+504,  Producto 504,  ropa  ,2344.79
+505,  Producto 505,Ropa,2792.49
+506,  PRODUCTO 506,deportes,738.01
+507,Producto 507,HOGAR  ,1731.3
+508,PRODUCTO 508,ALIMENTOS,824.36
+509,Producto 509  ,electro  ,2472.46
+510,producto 510,  Belleza  ,16.97
+511,producto 511  ,  Juguetes,1694.89
+512,  PRODUCTO 512  ,DEPORTES  ,1018.27
+513,producto 513  ,Deportes  ,968.73
+514,Producto 514,HOGAR,1935.07
+515,  Producto 515,Electro,2554.6
+516,producto 516  ,  Alimentos,1827.98
+517,  PRODUCTO 517  ,HOGAR,2559.67
+518,Producto 518,  belleza  ,794.53
+519,producto 519,  ELECTRO  ,1558.99
+520,PRODUCTO 520  ,  Hogar,1352.16
+521,Producto 521,Electro,35.92
+522,  producto 522  ,  electro,1670.88
+523,  Producto 523,  deportes  ,1984.91
+524,producto 524  ,alimentos,1776.15
+525,  producto 525,Deportes  ,2209.1
+526,PRODUCTO 526,Juguetes,1714.45
+527,  PRODUCTO 527  ,  ALIMENTOS,201.18
+528,PRODUCTO 528  ,electro,350.22
+529,producto 529,  hogar,1789.83
+530,  Producto 530  ,Belleza  ,825.66
+531,PRODUCTO 531,  alimentos,239.86
+532,PRODUCTO 532  ,  Juguetes,1289.38
+533,  PRODUCTO 533  ,Electro  ,1663.41
+534,producto 534  ,Belleza,986.91
+535,,,2161.58
+536,  PRODUCTO 536,deportes  ,1931.67
+537,producto 537,Deportes  ,999.12
+538,Producto 538  ,  Alimentos  ,2264.86
+539,  producto 539,Alimentos,1946.44
+540,PRODUCTO 540  ,Alimentos,1912.7
+541,producto 541  ,BELLEZA,1660.73
+542,PRODUCTO 542  ,deportes  ,35.16
+543,PRODUCTO 543  ,hogar,2089.83
+544,Producto 544,Juguetes,1128.75
+545,  PRODUCTO 545,  juguetes,2827.89
+546,Producto 546,Electro,2454.14
+547,producto 547,Ropa  ,1763.5
+548,  Producto 548,Hogar  ,757.29
+549,  producto 549  ,Deportes,611.95
+550,  PRODUCTO 550  ,Electro,1021.81
+551,  producto 551,  Electro  ,1430.23
+552,PRODUCTO 552,Alimentos,888.9
+553,producto 553  ,ropa  ,1545.27
+554,Producto 554  ,DEPORTES,496.95
+555,  Producto 555  ,  ROPA,2933.16
+556,  Producto 556  ,  Hogar,324.67
+557,Producto 557  ,  ROPA,2795.9
+558,  Producto 558,electro,0.0
+559,  Producto 559  ,Ropa,1576.56
+560,Producto 560  ,  Ropa,2175.01
+561,  Producto 561,Desconocida  ,1308.71
+562,PRODUCTO 562,DEPORTES,1890.47
+563,Producto 563,Deportes  ,1022.39
+564,  PRODUCTO 564  ,electro,-99.99
+565,Producto 565  ,  BELLEZA,1735.11
+566,  Producto 566  ,ropa,1494.89
+567,Producto 567,ropa,1739.03
+568,PRODUCTO 568  ,ALIMENTOS  ,860.7
+569,Producto 569,Deportes  ,1101.51
+570,  producto 570,Ropa,252.61
+571,  PRODUCTO 571,Deportes,157.78
+572,  PRODUCTO 572,Ropa,761.12
+573,Producto 573,  juguetes,223.67
+574,producto 574,ELECTRO  ,312.22
+575,Producto 575  ,Deportes,2438.97
+576,  PRODUCTO 576,HOGAR,117.58
+577,  Producto 577,  Desconocida  ,0.0
+578,  Producto 578  ,  Alimentos,818.4
+579,PRODUCTO 579,Electro  ,2614.77
+580,  PRODUCTO 580,  Desconocida,1455.49
+581,producto 581,Alimentos  ,917.42
+582,PRODUCTO 582  ,  ELECTRO  ,1553.4
+583,Producto 583,  Alimentos,1146.49
+584,  Producto 584  ,Hogar,1693.34
+585,PRODUCTO 585,  ELECTRO,344.48
+586,  producto 586  ,DEPORTES  ,2990.97
+587,Producto 587,Deportes,1277.24
+588,PRODUCTO 588  ,  Belleza,1045.34
+589,Producto 589,ropa,2130.92
+590,  Producto 590,  ALIMENTOS,1092.33
+591,  producto 591  ,BELLEZA,2499.99
+592,producto 592,Belleza,1363.36
+593,  Producto 593  ,  juguetes,2158.96
+594,PRODUCTO 594,alimentos,323.25
+595,  PRODUCTO 595,Belleza,2538.51
+596,producto 596  ,Juguetes,2207.42
+597,  Producto 597,  Belleza,635.94
+598,  Producto 598  ,ROPA  ,436.71
+599,Producto 599,Hogar  ,949.56
+600,Producto 600  ,  Juguetes  ,2928.24
+601,  Producto 601  ,HOGAR,771.24
+602,  PRODUCTO 602  ,  Alimentos  ,1368.93
+603,  Producto 603,  Ropa  ,91.03
+604,Producto 604,  Juguetes,1192.29
+605,Producto 605  ,ALIMENTOS,1714.39
+606,PRODUCTO 606,BELLEZA  ,2859.42
+607,  producto 607  ,,1550.69
+608,  Producto 608  ,ELECTRO,2457.5
+609,PRODUCTO 609,ALIMENTOS,1641.84
+610,producto 610,  HOGAR  ,123.31
+611,PRODUCTO 611,  Ropa,945.71
+612,Producto 612  ,Ropa,1727.07
+613,producto 613  ,Alimentos  ,2851.83
+614,  Producto 614,belleza,2577.53
+615,PRODUCTO 615,electro,685.84
+616,  Producto 616,  HOGAR  ,661.11
+617,  producto 617  ,  DESCONOCIDA,604.32
+618,producto 618,alimentos,2767.57
+619,  PRODUCTO 619,Deportes  ,2558.15
+620,producto 620  ,  Ropa  ,2324.88
+621,  PRODUCTO 621,HOGAR  ,1178.81
+622,producto 622,  Electro  ,1513.64
+623,producto 623,  ROPA,1393.53
+624,producto 624,  Alimentos,760.94
+625,  PRODUCTO 625,  ROPA,1515.58
+626,  Producto 626,  ROPA  ,92.46
+627,PRODUCTO 627,  juguetes,396.3
+628,producto 628  ,  ropa  ,2659.88
+629,PRODUCTO 629  ,Desconocida,2255.29
+630,  Producto 630,Desconocida,1269.18
+631,Producto 631  ,  Belleza,1551.93
+632,Producto 632,hogar,1110.63
+633,producto 633,ROPA  ,2222.6
+634,Producto 634  ,  Electro,2352.78
+635,PRODUCTO 635,BELLEZA  ,2290.09
+636,Producto 636,belleza  ,0.0
+637,  Producto 637,  Alimentos,614.31
+638,  Producto 638,  HOGAR  ,1014.57
+639,  Producto 639,ropa,1410.07
+640,Producto 640,deportes,0.0
+641,  Producto 641,Electro,2265.07
+642,Producto 642,  ALIMENTOS  ,988.73
+643,PRODUCTO 643,Hogar  ,415.56
+644,  PRODUCTO 644,,1197.72
+645,  Producto 645  ,Electro,2939.76
+646,  Producto 646,,678.42
+647,  producto 647  ,Deportes,1836.86
+648,PRODUCTO 648,  juguetes,1299.49
+649,PRODUCTO 649  ,  JUGUETES,214.0
+650,Producto 650,  Hogar  ,1464.14
+651,  producto 651  ,  Deportes  ,2106.79
+652,  Producto 652  ,electro,1540.15
+653,Producto 653,Alimentos  ,2616.45
+654,PRODUCTO 654  ,electro,867.52
+655,producto 655  ,Deportes,259.66
+656,Producto 656,  belleza,2809.76
+657,  PRODUCTO 657,Juguetes,1135.21
+658,  Producto 658,  HOGAR,1729.64
+659,Producto 659  ,  ROPA,2376.22
+660,PRODUCTO 660  ,Electro,973.62
+661,producto 661  ,JUGUETES,2148.78
+662,Producto 662  ,ALIMENTOS  ,407.12
+663,PRODUCTO 663  ,hogar,874.59
+664,  Producto 664,Ropa,434.99
+665,  producto 665  ,ELECTRO,2433.88
+666,  PRODUCTO 666  ,Alimentos,668.73
+667,  Producto 667  ,,2152.49
+668,producto 668,Belleza,2829.95
+669,,  Juguetes,1583.79
+670,Producto 670,  Belleza,1620.55
+671,  producto 671  ,juguetes,1383.64
+672,,Alimentos  ,978.34
+673,  PRODUCTO 673,Belleza,1427.49
+674,  PRODUCTO 674  ,Juguetes  ,1808.82
+675,  producto 675,HOGAR,2957.99
+676,  PRODUCTO 676  ,  alimentos,2813.36
+677,producto 677,JUGUETES  ,2586.6
+678,  PRODUCTO 678,  Electro  ,2667.5
+679,Producto 679  ,Juguetes,1404.08
+680,  producto 680,BELLEZA,1972.68
+681,  Producto 681,  Hogar,2685.31
+682,producto 682,ROPA,1179.46
+683,producto 683  ,ropa,2885.33
+684,PRODUCTO 684  ,juguetes,1247.94
+685,  Producto 685,ROPA,1803.65
+686,  PRODUCTO 686,Juguetes,2129.7
+687,Producto 687,Hogar,2851.83
+688,PRODUCTO 688  ,ropa,734.6
+689,  producto 689  ,BELLEZA  ,2238.65
+690,Producto 690,BELLEZA  ,1562.93
+691,  Producto 691  ,Electro,806.4
+692,Producto 692,JUGUETES  ,2330.04
+693,  Producto 693  ,Ropa  ,1657.11
+694,Producto 694,Belleza  ,1983.26
+695,  PRODUCTO 695,Deportes  ,969.38
+696,producto 696,Desconocida,1444.34
+697,Producto 697,hogar,1852.45
+698,producto 698,Deportes,1215.33
+699,Producto 699,Deportes  ,595.92
+700,PRODUCTO 700,  electro  ,2884.96
+701,Producto 701,Hogar  ,1534.89
+702,  PRODUCTO 702  ,Hogar  ,2202.03
+703,Producto 703  ,ROPA  ,1233.73
+704,producto 704,  Juguetes,1066.04
+705,PRODUCTO 705,ALIMENTOS,1222.09
+706,  Producto 706,  Hogar  ,1228.18
+707,  Producto 707  ,  Hogar,1633.0
+708,producto 708,ALIMENTOS  ,1630.87
+709,  producto 709,  Hogar  ,1491.96
+710,Producto 710,ropa,405.22
+711,  Producto 711  ,  Ropa,1488.73
+712,Producto 712,  Alimentos  ,508.14
+713,Producto 713,  Belleza  ,379.28
+714,  Producto 714  ,HOGAR,2798.0
+715,Producto 715  ,BELLEZA  ,1815.25
+716,  Producto 716  ,  Hogar,1978.81
+717,PRODUCTO 717,Juguetes,1205.98
+718,  Producto 718  ,HOGAR,2727.03
+719,  Producto 719,  ROPA  ,1914.15
+720,,  Electro,2307.74
+721,Producto 721,Deportes,1106.32
+722,  PRODUCTO 722,Electro,2880.08
+723,  Producto 723,electro,2461.56
+724,  producto 724  ,  Electro  ,2561.99
+725,Producto 725  ,  Deportes  ,517.41
+726,  producto 726,Belleza,813.62
+727,Producto 727,Deportes,857.59
+728,Producto 728,  belleza,813.46
+729,Producto 729  ,Deportes  ,2566.37
+730,producto 730,  deportes,96.62
+731,PRODUCTO 731,,229.22
+732,  producto 732,  BELLEZA,822.47
+733,Producto 733  ,  HOGAR  ,600.42
+734,Producto 734,  Juguetes  ,696.35
+735,PRODUCTO 735  ,Hogar,2394.03
+736,producto 736  ,  ELECTRO  ,1689.82
+737,  Producto 737  ,  alimentos,18.31
+738,  PRODUCTO 738  ,  Alimentos,1288.54
+739,  Producto 739  ,ropa  ,1224.25
+740,Producto 740  ,  Ropa,342.72
+741,PRODUCTO 741  ,  HOGAR  ,2028.75
+742,  producto 742,Deportes,-99.99
+743,  PRODUCTO 743,  deportes,2162.96
+744,Producto 744  ,ALIMENTOS,2185.68
+745,PRODUCTO 745  ,  ELECTRO  ,1.16
+746,  PRODUCTO 746,  Belleza  ,2861.81
+747,producto 747,  Electro,2442.81
+748,PRODUCTO 748,ELECTRO,2712.04
+749,producto 749  ,Hogar,47.91
+750,Producto 750,  Hogar,2801.64
+751,Producto 751,Juguetes  ,2429.56
+752,producto 752  ,  electro,2511.82
+753,producto 753,  Deportes,280.77
+754,producto 754,Deportes  ,2216.6
+755,  producto 755,electro  ,2879.79
+756,Producto 756,Hogar  ,2035.96
+757,producto 757,hogar  ,1712.11
+758,Producto 758,JUGUETES,2836.94
+759,PRODUCTO 759,  Juguetes,1329.37
+760,Producto 760,Ropa  ,1798.28
+761,producto 761,alimentos,1429.54
+762,  producto 762  ,  Electro,2798.61
+763,  PRODUCTO 763,  Deportes,229.18
+764,  producto 764  ,  electro,1503.86
+765,  Producto 765,  JUGUETES  ,2061.17
+766,  producto 766,juguetes  ,2375.93
+767,Producto 767  ,ropa,1749.47
+768,producto 768,  alimentos  ,2726.84
+769,Producto 769,  Desconocida  ,2826.03
+770,  Producto 770,  DEPORTES,193.89
+771,  PRODUCTO 771  ,Alimentos,1207.71
+772,  producto 772,,71.35
+773,  Producto 773,  Electro  ,988.92
+774,Producto 774  ,ropa,1611.07
+775,PRODUCTO 775  ,  Juguetes,2732.47
+776,Producto 776,ropa,2539.82
+777,  Producto 777,  BELLEZA,383.37
+778,Producto 778  ,ropa  ,280.0
+779,  Producto 779,  electro,1768.21
+780,producto 780  ,  Belleza,1596.82
+781,  Producto 781  ,  JUGUETES  ,799.87
+782,  PRODUCTO 782  ,JUGUETES  ,2698.46
+783,  producto 783  ,hogar  ,2782.17
+784,producto 784,  Belleza,1208.43
+785,  Producto 785  ,Hogar,2671.02
+786,Producto 786  ,  DESCONOCIDA  ,1152.46
+787,Producto 787,  Electro,2210.71
+788,  producto 788,ROPA  ,1428.35
+789,producto 789,  Juguetes,368.63
+790,  Producto 790,,2783.87
+791,  PRODUCTO 791,  Ropa  ,1362.84
+792,PRODUCTO 792  ,Juguetes  ,2203.73
+793,  Producto 793  ,ROPA,1102.15
+794,Producto 794  ,BELLEZA  ,57.62
+795,PRODUCTO 795  ,  Electro,302.49
+796,producto 796  ,Electro  ,1489.16
+797,Producto 797,  Deportes  ,2070.2
+798,producto 798,Electro,1004.87
+799,  PRODUCTO 799,ROPA,2086.77
+800,PRODUCTO 800,  Deportes  ,2096.21
+801,Producto 801  ,ropa,2112.1
+802,PRODUCTO 802,  Alimentos  ,1478.07
+803,Producto 803  ,Deportes  ,2744.74
+804,Producto 804,Juguetes,1468.1
+805,  PRODUCTO 805,Juguetes,1351.35
+806,Producto 806  ,  ALIMENTOS  ,598.94
+807,Producto 807  ,Alimentos,923.66
+808,  Producto 808,  Electro,127.96
+809,  PRODUCTO 809,Alimentos,1900.97
+810,  producto 810,ropa,746.36
+811,  Producto 811,  Hogar  ,913.16
+812,producto 812,  Ropa  ,2312.67
+813,Producto 813  ,DEPORTES  ,982.34
+814,producto 814  ,ALIMENTOS,727.35
+815,  PRODUCTO 815,  JUGUETES  ,508.0
+816,  Producto 816,  Ropa,2324.8
+817,Producto 817  ,juguetes,389.99
+818,producto 818,  Ropa  ,1361.81
+819,Producto 819,juguetes  ,1521.28
+820,Producto 820,  belleza,2062.48
+821,Producto 821  ,ropa,1900.22
+822,producto 822,  deportes,2432.35
+823,  Producto 823,  juguetes,135.21
+824,Producto 824  ,  HOGAR  ,890.03
+825,PRODUCTO 825  ,,841.12
+826,  PRODUCTO 826,  ELECTRO,438.9
+827,  Producto 827,  Ropa  ,868.25
+828,PRODUCTO 828  ,HOGAR,929.99
+829,  Producto 829,Electro,1566.13
+830,producto 830  ,Ropa,1991.45
+831,  Producto 831,hogar  ,1143.92
+832,PRODUCTO 832  ,HOGAR  ,2158.69
+833,  Producto 833  ,DEPORTES  ,1009.16
+834,  producto 834,Belleza,871.56
+835,producto 835,HOGAR,1624.02
+836,  producto 836,  BELLEZA,72.13
+837,  PRODUCTO 837  ,ALIMENTOS,240.29
+838,  Producto 838,deportes  ,1254.49
+839,Producto 839  ,Juguetes,2828.8
+840,  PRODUCTO 840,  deportes  ,2164.81
+841,Producto 841  ,electro,265.29
+842,  Producto 842  ,Juguetes  ,2539.11
+843,Producto 843,juguetes,2197.17
+844,Producto 844,Belleza,1833.23
+845,  PRODUCTO 845,Juguetes  ,2461.06
+846,  producto 846,HOGAR,1212.93
+847,PRODUCTO 847,BELLEZA,665.28
+848,  producto 848  ,Juguetes  ,1536.56
+849,producto 849,  Belleza  ,1646.98
+850,Producto 850  ,Alimentos  ,1615.44
+851,  PRODUCTO 851  ,  Belleza  ,1695.66
+852,PRODUCTO 852,  Ropa  ,2846.17
+853,producto 853,  Hogar  ,2706.83
+854,Producto 854,  Electro,2627.28
+855,Producto 855  ,ropa,2404.45
+856,Producto 856,,2830.34
+857,Producto 857  ,Ropa  ,296.39
+858,  Producto 858  ,  Juguetes  ,796.1
+859,  PRODUCTO 859  ,  Belleza,1485.67
+860,Producto 860,Belleza,2539.76
+861,producto 861  ,  Deportes,1515.99
+862,Producto 862,juguetes  ,2244.36
+863,producto 863,  hogar,417.74
+864,  Producto 864  ,  juguetes  ,-99.99
+865,PRODUCTO 865,Juguetes,2195.6
+866,PRODUCTO 866  ,  Juguetes  ,495.04
+867,  producto 867  ,hogar,1054.72
+868,  producto 868,Deportes  ,795.33
+869,Producto 869,hogar  ,1050.24
+870,Producto 870,Alimentos,2125.26
+871,Producto 871  ,Deportes  ,1104.17
+872,  Producto 872  ,  Alimentos,1666.23
+873,  PRODUCTO 873,alimentos  ,300.7
+874,Producto 874,alimentos,2415.25
+875,  Producto 875,  BELLEZA,1110.3
+876,  PRODUCTO 876,Ropa  ,1945.95
+877,producto 877  ,  ROPA,2176.44
+878,Producto 878  ,Alimentos,629.77
+879,PRODUCTO 879,Alimentos,2654.14
+880,  Producto 880  ,electro,1849.06
+881,producto 881,  Ropa,1286.75
+882,PRODUCTO 882,Electro  ,547.82
+883,Producto 883,DEPORTES  ,2826.96
+884,  Producto 884,  Electro  ,2265.45
+885,  Producto 885,Juguetes,624.87
+886,  PRODUCTO 886  ,  BELLEZA  ,1013.79
+887,  producto 887,  deportes,2429.21
+888,Producto 888  ,Hogar,2087.34
+889,  Producto 889  ,  Ropa,2297.59
+890,  Producto 890  ,  Alimentos,1324.16
+891,producto 891,DEPORTES  ,2149.71
+892,  PRODUCTO 892,alimentos  ,1160.09
+893,  Producto 893  ,HOGAR  ,634.58
+894,  Producto 894  ,  DEPORTES,1898.4
+895,PRODUCTO 895,Ropa,2928.07
+896,producto 896  ,deportes  ,932.49
+897,producto 897,alimentos,1383.45
+898,producto 898,alimentos  ,2022.33
+899,Producto 899  ,Juguetes,1624.98
+900,PRODUCTO 900  ,  Electro  ,2530.44
+901,Producto 901  ,Deportes  ,2285.47
+902,  producto 902  ,ALIMENTOS  ,175.83
+903,Producto 903,Belleza,2995.27
+904,Producto 904  ,  Ropa,2257.45
+905,  PRODUCTO 905  ,  belleza,2591.85
+906,Producto 906,hogar  ,1953.94
+907,Producto 907  ,  DEPORTES,2569.0
+908,  producto 908,JUGUETES  ,338.04
+909,  PRODUCTO 909,Ropa,1043.87
+910,,,2629.39
+911,  PRODUCTO 911,electro  ,605.76
+912,PRODUCTO 912,Alimentos,235.65
+913,PRODUCTO 913,  Ropa,2364.57
+914,  Producto 914  ,  hogar,2506.62
+915,Producto 915,,488.79
+916,producto 916  ,Electro,2563.18
+917,Producto 917  ,ELECTRO  ,2060.62
+918,Producto 918,juguetes,1560.73
+919,,ELECTRO  ,2490.92
+920,Producto 920  ,Ropa,1258.33
+921,Producto 921,  Juguetes,582.79
+922,  Producto 922,ELECTRO,855.27
+923,PRODUCTO 923,  deportes,1515.99
+924,  PRODUCTO 924,hogar,1594.46
+925,PRODUCTO 925  ,Deportes,2416.94
+926,Producto 926,Belleza,2374.27
+927,  Producto 927,Ropa,1744.52
+928,producto 928,hogar,2342.58
+929,PRODUCTO 929,Hogar  ,0.0
+930,,Juguetes,151.14
+931,producto 931,  alimentos  ,2621.03
+932,  producto 932,juguetes,227.59
+933,Producto 933  ,ROPA  ,740.82
+934,Producto 934  ,ropa,2086.26
+935,Producto 935,Juguetes,1228.93
+936,  Producto 936,Alimentos,2629.07
+937,PRODUCTO 937  ,  Deportes,894.64
+938,producto 938  ,  JUGUETES,36.6
+939,Producto 939  ,  ropa  ,902.67
+940,PRODUCTO 940,Alimentos  ,1734.65
+941,Producto 941,ROPA,1128.44
+942,  producto 942  ,Alimentos,1605.08
+943,Producto 943,alimentos,2629.92
+944,Producto 944  ,  juguetes,2737.54
+945,Producto 945,  juguetes,798.66
+946,Producto 946,Juguetes,1386.96
+947,Producto 947  ,ALIMENTOS,1647.88
+948,Producto 948,  alimentos,2847.39
+949,producto 949  ,,2995.85
+950,producto 950  ,  hogar,706.99
+951,Producto 951  ,JUGUETES,2181.21
+952,PRODUCTO 952  ,Belleza,1134.72
+953,PRODUCTO 953  ,Ropa  ,25.32
+954,PRODUCTO 954,ropa,28.75
+955,,,1382.24
+956,Producto 956  ,juguetes,1465.52
+957,  Producto 957,Deportes,0.0
+958,  Producto 958,ropa,2061.1
+959,  Producto 959,Electro  ,882.72
+960,producto 960,Belleza,1680.12
+961,  PRODUCTO 961  ,BELLEZA,903.46
+962,PRODUCTO 962,Deportes,502.24
+963,Producto 963,  Juguetes  ,1222.11
+964,Producto 964,  ALIMENTOS  ,697.59
+965,  producto 965  ,electro  ,1604.87
+966,  Producto 966  ,  Alimentos,597.29
+967,  Producto 967,BELLEZA,1525.71
+968,  Producto 968  ,  belleza  ,472.98
+969,producto 969,  Hogar  ,2013.25
+970,  Producto 970  ,Hogar  ,2262.06
+971,Producto 971  ,  deportes  ,332.07
+972,  PRODUCTO 972,Hogar,1403.94
+973,producto 973  ,HOGAR,213.54
+974,Producto 974,  Deportes,1794.95
+975,  Producto 975  ,  ropa  ,793.95
+976,  PRODUCTO 976,HOGAR,1583.35
+977,  Producto 977,  Ropa  ,1552.87
+978,  PRODUCTO 978,ropa,2773.14
+979,PRODUCTO 979,Juguetes,1647.7
+980,  producto 980  ,Ropa,1749.41
+981,  producto 981  ,  ROPA,1205.56
+982,  PRODUCTO 982,  Hogar  ,2847.29
+983,PRODUCTO 983  ,  ropa  ,2331.78
+984,producto 984,  Alimentos  ,856.93
+985,  Producto 985  ,Deportes  ,2532.78
+986,  Producto 986,hogar  ,1297.76
+987,producto 987,  DEPORTES,2486.17
+988,  Producto 988,Electro,2468.84
+989,  producto 989,HOGAR,567.42
+990,Producto 990,Ropa,2103.72
+991,producto 991  ,  alimentos,872.64
+992,PRODUCTO 992,DEPORTES  ,893.18
+993,PRODUCTO 993  ,hogar,889.75
+994,Producto 994,ALIMENTOS,2176.98
+995,  Producto 995,  deportes,690.25
+996,Producto 996  ,Electro,3.72
+997,PRODUCTO 997,desconocida  ,2146.0
+998,  PRODUCTO 998,Desconocida  ,514.38
+999,PRODUCTO 999,  Belleza  ,314.34
+1000,  PRODUCTO 1000,  Juguetes,713.31
+1001,Producto 1001,BELLEZA  ,1140.32
+1002,,Juguetes,1428.24
+1003,  Producto 1003,Hogar,134.67
+1004,  PRODUCTO 1004,juguetes,2911.75
+1005,  Producto 1005  ,  ALIMENTOS,2148.47
+1006,  producto 1006,Juguetes  ,970.26
+1007,  Producto 1007,  Alimentos  ,956.77
+1008,  producto 1008  ,  Deportes,1346.18
+1009,  PRODUCTO 1009  ,  deportes,1879.11
+1010,Producto 1010,BELLEZA,439.97
+1011,Producto 1011  ,,567.6
+1012,PRODUCTO 1012  ,Belleza,2578.44
+1013,Producto 1013  ,Juguetes,769.51
+1014,  producto 1014  ,BELLEZA,1141.2
+1015,  producto 1015,JUGUETES,2613.94
+1016,  Producto 1016  ,juguetes  ,1989.78
+1017,producto 1017,Ropa,1025.79
+1018,producto 1018,  Ropa,2051.41
+1019,  PRODUCTO 1019,Juguetes,60.03
+1020,Producto 1020,  DEPORTES,2207.19
+1021,  Producto 1021,Alimentos  ,1461.56
+1022,  Producto 1022,Hogar,2439.73
+1023,  PRODUCTO 1023,Electro,2863.96
+1024,Producto 1024,Ropa  ,2777.44
+1025,  producto 1025  ,Juguetes  ,2727.89
+1026,Producto 1026  ,  ELECTRO,1537.0
+1027,  producto 1027  ,ROPA,1081.07
+1028,Producto 1028  ,HOGAR,1395.64
+1029,PRODUCTO 1029,Alimentos,2070.0
+1030,Producto 1030,Juguetes  ,2652.11
+1031,Producto 1031,  Hogar  ,621.75
+1032,Producto 1032  ,  deportes  ,2754.66
+1033,Producto 1033  ,  ROPA  ,2445.73
+1034,  producto 1034,  juguetes  ,2936.59
+1035,PRODUCTO 1035  ,Electro,2640.88
+1036,PRODUCTO 1036  ,deportes,840.53
+1037,producto 1037  ,  deportes,318.76
+1038,  PRODUCTO 1038  ,  Belleza,337.61
+1039,PRODUCTO 1039,  Alimentos,874.38
+1040,,  Deportes,1842.94
+1041,  producto 1041  ,  ropa  ,2413.16
+1042,Producto 1042,Alimentos  ,2697.85
+1043,  producto 1043,  juguetes  ,1871.64
+1044,Producto 1044  ,  Belleza  ,17.89
+1045,producto 1045,Hogar  ,559.76
+1046,  Producto 1046,Alimentos,300.08
+1047,PRODUCTO 1047,,1090.61
+1048,Producto 1048,  ROPA,1504.55
+1049,producto 1049  ,  Electro,131.15
+1050,Producto 1050,ALIMENTOS,1046.09
+1051,Producto 1051  ,belleza,538.36
+1052,PRODUCTO 1052,  HOGAR,1941.56
+1053,  PRODUCTO 1053,HOGAR,1393.35
+1054,Producto 1054,  Electro,1486.46
+1055,  producto 1055,  Juguetes,1283.65
+1056,  Producto 1056,  JUGUETES  ,2868.1
+1057,  PRODUCTO 1057,  DESCONOCIDA  ,644.99
+1058,PRODUCTO 1058,Hogar,1550.48
+1059,,  electro,2208.32
+1060,Producto 1060,ELECTRO  ,1670.98
+1061,  producto 1061,  electro,0.0
+1062,Producto 1062,ALIMENTOS  ,1134.53
+1063,  producto 1063  ,  belleza,1391.56
+1064,Producto 1064  ,  juguetes,266.48
+1065,Producto 1065  ,  Juguetes  ,1827.39
+1066,producto 1066  ,  Alimentos,-99.99
+1067,Producto 1067,Ropa  ,481.77
+1068,  PRODUCTO 1068  ,Alimentos,1634.05
+1069,Producto 1069,Belleza  ,1597.4
+1070,Producto 1070  ,Electro,228.54
+1071,  producto 1071  ,ALIMENTOS,2094.95
+1072,  Producto 1072,ELECTRO,1871.69
+1073,  Producto 1073  ,  Belleza,567.86
+1074,PRODUCTO 1074,  Deportes,1408.84
+1075,Producto 1075  ,  BELLEZA  ,2161.25
+1076,producto 1076,  Hogar,1588.78
+1077,Producto 1077  ,Electro  ,1187.07
+1078,PRODUCTO 1078  ,  Juguetes  ,967.69
+1079,Producto 1079  ,Alimentos,1831.57
+1080,producto 1080,  Deportes  ,2817.39
+1081,producto 1081,  Belleza,2015.56
+1082,PRODUCTO 1082  ,ELECTRO,225.16
+1083,  Producto 1083  ,Deportes,1382.59
+1084,Producto 1084  ,Ropa,2672.58
+1085,producto 1085,  Hogar  ,284.29
+1086,Producto 1086,  Desconocida  ,2966.64
+1087,  producto 1087  ,belleza  ,2847.26
+1088,  producto 1088  ,Ropa,235.75
+1089,  PRODUCTO 1089  ,,2800.31
+1090,Producto 1090  ,hogar,1090.03
+1091,Producto 1091  ,HOGAR  ,2534.28
+1092,Producto 1092  ,Hogar,1255.73
+1093,Producto 1093,Deportes  ,1323.12
+1094,Producto 1094  ,hogar  ,1903.1
+1095,  Producto 1095,  Ropa,2323.66
+1096,producto 1096  ,Juguetes,102.33
+1097,  Producto 1097,Juguetes,1779.87
+1098,PRODUCTO 1098,hogar  ,561.01
+1099,Producto 1099  ,DEPORTES,1038.5
+1100,Producto 1100,Alimentos  ,1044.56
+1101,producto 1101  ,  Electro,1407.71
+1102,Producto 1102  ,belleza,1003.08
+1103,producto 1103  ,Deportes,322.98
+1104,PRODUCTO 1104,  ALIMENTOS,437.74
+1105,producto 1105,  belleza  ,101.28
+1106,  Producto 1106,Alimentos  ,1411.28
+1107,  PRODUCTO 1107  ,  Alimentos,2863.39
+1108,  Producto 1108  ,Juguetes  ,347.91
+1109,producto 1109  ,ELECTRO  ,2838.85
+1110,  Producto 1110,Alimentos  ,2200.35
+1111,  Producto 1111  ,  hogar,1912.86
+1112,Producto 1112  ,Belleza  ,1936.19
+1113,PRODUCTO 1113,  DEPORTES,2480.36
+1114,  producto 1114  ,Juguetes  ,321.65
+1115,producto 1115  ,Belleza,1514.76
+1116,  PRODUCTO 1116,HOGAR,2091.58
+1117,  PRODUCTO 1117,HOGAR  ,1760.87
+1118,  producto 1118,alimentos,2498.5
+1119,producto 1119  ,  hogar  ,217.74
+1120,PRODUCTO 1120  ,  electro  ,2072.41
+1121,producto 1121,hogar,1602.55
+1122,  Producto 1122,  Alimentos  ,1138.1
+1123,producto 1123  ,Belleza  ,1021.48
+1124,  producto 1124,  HOGAR  ,1862.88
+1125,Producto 1125  ,  JUGUETES  ,2673.1
+1126,  Producto 1126  ,  deportes  ,-99.99
+1127,Producto 1127  ,  juguetes  ,2474.34
+1128,producto 1128,Juguetes  ,1207.07
+1129,producto 1129  ,BELLEZA,308.08
+1130,PRODUCTO 1130,ROPA,185.46
+1131,Producto 1131  ,Deportes  ,154.95
+1132,  PRODUCTO 1132,  Juguetes,1141.07
+1133,,  juguetes,1012.38
+1134,  PRODUCTO 1134  ,ropa,2154.09
+1135,Producto 1135  ,belleza,2228.72
+1136,  producto 1136,  Deportes,153.51
+1137,Producto 1137,desconocida  ,664.15
+1138,Producto 1138,  ALIMENTOS,823.51
+1139,  Producto 1139,BELLEZA,1643.29
+1140,PRODUCTO 1140  ,DEPORTES  ,434.4
+1141,Producto 1141,  Juguetes,402.69
+1142,  Producto 1142  ,Juguetes  ,2831.42
+1143,  Producto 1143,  ROPA,2412.8
+1144,Producto 1144  ,  Deportes,542.78
+1145,PRODUCTO 1145,ALIMENTOS,1220.3
+1146,Producto 1146,Belleza,1067.51
+1147,  producto 1147,  hogar,2373.22
+1148,PRODUCTO 1148  ,  ELECTRO  ,1531.13
+1149,  producto 1149  ,Alimentos,384.42
+1150,Producto 1150,  Hogar  ,2217.24
+1151,Producto 1151  ,  ALIMENTOS,1191.27
+1152,Producto 1152,DEPORTES,789.51
+1153,  producto 1153,HOGAR,1127.12
+1154,Producto 1154  ,DEPORTES  ,1493.77
+1155,PRODUCTO 1155  ,Hogar,1030.0
+1156,PRODUCTO 1156  ,  Alimentos  ,726.48
+1157,producto 1157,ROPA,1196.11
+1158,PRODUCTO 1158,Alimentos  ,58.5
+1159,Producto 1159,Deportes,2317.72
+1160,  PRODUCTO 1160,alimentos,513.66
+1161,Producto 1161,  HOGAR,132.67
+1162,  PRODUCTO 1162,  electro,1961.44
+1163,producto 1163,Hogar,2322.03
+1164,Producto 1164,JUGUETES  ,2441.67
+1165,,  Alimentos,1481.03
+1166,Producto 1166  ,  Belleza,616.9
+1167,Producto 1167,,2211.95
+1168,Producto 1168,  ropa  ,2099.44
+1169,Producto 1169,  Deportes,739.57
+1170,producto 1170,  BELLEZA,2710.32
+1171,producto 1171,Hogar  ,314.01
+1172,  Producto 1172,  Ropa  ,2948.08
+1173,  Producto 1173  ,Alimentos  ,2580.88
+1174,  producto 1174  ,  Hogar  ,2064.01
+1175,  PRODUCTO 1175  ,Hogar,2816.31
+1176,Producto 1176  ,  JUGUETES  ,2167.21
+1177,Producto 1177,Juguetes,572.18
+1178,producto 1178,electro,1327.03
+1179,PRODUCTO 1179  ,juguetes  ,215.44
+1180,  Producto 1180,Deportes,1169.58
+1181,Producto 1181,BELLEZA,2225.07
+1182,PRODUCTO 1182  ,  Hogar,1159.94
+1183,  producto 1183,Juguetes  ,991.55
+1184,PRODUCTO 1184  ,ELECTRO  ,1786.47
+1185,PRODUCTO 1185,Alimentos,2616.74
+1186,  Producto 1186,Belleza,143.7
+1187,PRODUCTO 1187  ,JUGUETES  ,1157.03
+1188,  producto 1188,  hogar,475.56
+1189,  PRODUCTO 1189,  Alimentos,2086.37
+1190,Producto 1190  ,Deportes,318.07
+1191,  Producto 1191,Hogar,1994.76
+1192,  producto 1192,  Alimentos  ,859.26
+1193,PRODUCTO 1193,  deportes  ,597.55
+1194,  Producto 1194,DEPORTES,2809.12
+1195,Producto 1195,belleza,56.56
+1196,producto 1196,hogar,1313.89
+1197,Producto 1197  ,  Juguetes  ,65.86
+1198,  Producto 1198,Juguetes  ,1451.3
+1199,producto 1199,Electro,1503.64
+1200,Producto 1200  ,  Alimentos  ,965.67

@@ -1,0 +1,221 @@
+id_tienda,nombre,ciudad,region
+1,  tienda 1,cusco,SELVA
+2,Tienda 2  ,  LIMA,Selva
+3,tienda 3,TACNA,Costa  
+4,  Tienda 4,  TACNA,COSTA
+5,  Tienda 5  ,Piura,  sierra
+6,Tienda 6  ,CUSCO,  Selva
+7,  Tienda 7,Iquitos  ,  sierra  
+8,  Tienda 8  ,  Cusco,costa
+9,TIENDA 9,  CUSCO  ,  SIERRA  
+10,Tienda 10,  Piura,sierra
+11,  tienda 11  ,  TACNA  ,COSTA
+12,  TIENDA 12,lima,COSTA  
+13,  Tienda 13,CUSCO,  Selva
+14,tienda 14  ,  trujillo  ,SIERRA
+15,Tienda 15,Iquitos,  Costa
+16,tienda 16,Iquitos,Costa
+17,tienda 17  ,PIURA,sierra
+18,Tienda 18,Arequipa,  COSTA
+19,Tienda 19  ,LIMA  ,  Selva
+20,  Tienda 20  ,,Selva
+21,  TIENDA 21  ,cusco  ,  Sierra  
+22,Tienda 22,Arequipa,
+23,Tienda 23,  LIMA  ,Costa
+24,TIENDA 24,  piura  ,Costa
+25,  Tienda 25,arequipa,  Costa  
+26,tienda 26  ,,COSTA
+27,TIENDA 27,Chiclayo,  SIERRA
+28,  tienda 28  ,AREQUIPA,  SELVA  
+29,TIENDA 29,  Chiclayo,SELVA  
+30,Tienda 30,IQUITOS,  costa
+31,  tienda 31,TRUJILLO,Sierra
+32,,  lima  ,  costa  
+33,TIENDA 33,  Trujillo,
+34,  Tienda 34  ,,Sierra
+35,TIENDA 35  ,  Cusco,SIERRA
+36,TIENDA 36,  piura,Costa  
+37,TIENDA 37  ,  arequipa,  Selva
+38,TIENDA 38,LIMA  ,  costa
+39,Tienda 39,iquitos,  Selva  
+40,  tienda 40,Tacna  ,
+41,Tienda 41  ,Piura,sierra
+42,Tienda 42,  Piura,SIERRA  
+43,  tienda 43,lima,  Costa
+44,  Tienda 44,,Selva
+45,Tienda 45,,  Selva
+46,  Tienda 46  ,piura,  COSTA  
+47,  Tienda 47,Iquitos  ,Costa
+48,  TIENDA 48,Iquitos  ,  COSTA
+49,  Tienda 49,cusco,sierra  
+50,Tienda 50,  arequipa  ,COSTA
+51,Tienda 51  ,  Arequipa  ,Costa  
+52,Tienda 52  ,Trujillo  ,selva  
+53,TIENDA 53  ,iquitos  ,COSTA
+54,Tienda 54,  Cusco,Selva  
+55,  tienda 55,Tacna,Selva
+56,TIENDA 56,AREQUIPA,Sierra  
+57,Tienda 57,,costa
+58,  Tienda 58  ,  Lima,costa
+59,tienda 59,  lima,SELVA
+60,TIENDA 60,CHICLAYO  ,Sierra  
+61,tienda 61  ,  Iquitos  ,SIERRA
+62,tienda 62,,costa
+63,Tienda 63  ,Tacna  ,Selva  
+64,Tienda 64,  TRUJILLO,  costa
+65,TIENDA 65  ,  Piura  ,  Costa  
+66,  Tienda 66,  Cusco  ,Costa
+67,TIENDA 67,Chiclayo,  Costa  
+68,Tienda 68,Lima  ,Selva  
+69,  Tienda 69,  Cusco  ,SIERRA
+70,Tienda 70,  Piura,COSTA
+71,TIENDA 71,TACNA,COSTA
+72,TIENDA 72,  iquitos,Costa
+73,Tienda 73,Tacna,Costa  
+74,TIENDA 74,arequipa  ,Sierra
+75,TIENDA 75,piura,SIERRA
+76,tienda 76,chiclayo,sierra
+77,TIENDA 77,  Arequipa,  SIERRA  
+78,tienda 78  ,  Arequipa,  Costa
+79,  Tienda 79,AREQUIPA  ,selva  
+80,  tienda 80  ,cusco,SIERRA
+81,Tienda 81,  CHICLAYO  ,  SIERRA
+82,tienda 82,  Lima,  COSTA  
+83,Tienda 83,,costa
+84,TIENDA 84  ,,  costa
+85,Tienda 85,,Costa  
+86,  Tienda 86  ,LIMA,Selva  
+87,tienda 87,TACNA,selva
+88,  Tienda 88  ,IQUITOS  ,  Sierra  
+89,Tienda 89,  chiclayo  ,  Selva  
+90,  Tienda 90,,SIERRA
+91,TIENDA 91,  CHICLAYO,sierra
+92,TIENDA 92  ,Piura,  selva  
+93,  TIENDA 93  ,,Sierra  
+94,  tienda 94  ,TACNA  ,Costa  
+95,Tienda 95,  Tacna  ,Sierra
+96,TIENDA 96,chiclayo  ,  costa
+97,  TIENDA 97  ,Tacna,Selva  
+98,  Tienda 98,trujillo  ,SELVA  
+99,tienda 99  ,PIURA,SIERRA  
+100,Tienda 100,CUSCO  ,  Costa  
+101,  TIENDA 101,,SIERRA  
+102,,  cusco  ,SELVA
+103,  Tienda 103,,Sierra  
+104,Tienda 104,CUSCO,Sierra
+105,  TIENDA 105  ,  Arequipa  ,  Costa  
+106,  Tienda 106,,Selva
+107,Tienda 107,Cusco,  Sierra
+108,  Tienda 108  ,  lima  ,Costa
+109,TIENDA 109,  Lima,SIERRA
+110,  Tienda 110,AREQUIPA,Costa  
+111,  TIENDA 111,lima,  Costa
+112,Tienda 112,Chiclayo,SIERRA  
+113,tienda 113,  Trujillo,Selva
+114,Tienda 114,Chiclayo  ,SELVA  
+115,  tienda 115  ,Tacna  ,  COSTA
+116,TIENDA 116,TACNA,Selva
+117,Tienda 117,Tacna,  COSTA
+118,Tienda 118,PIURA  ,  selva
+119,Tienda 119,,Sierra  
+120,Tienda 120,  TRUJILLO  ,Selva
+121,  tienda 121,  Cusco  ,  costa
+122,tienda 122,,COSTA  
+123,Tienda 123,Cusco,selva  
+124,tienda 124,  Arequipa  ,  SIERRA
+125,TIENDA 125,  IQUITOS  ,Costa
+126,  TIENDA 126,  Chiclayo  ,  costa
+127,,  Lima,  COSTA
+128,Tienda 128,  Lima  ,COSTA
+129,  tienda 129,chiclayo  ,Costa  
+130,  Tienda 130  ,Arequipa,  SIERRA
+131,Tienda 131  ,  Trujillo,SELVA
+132,  Tienda 132,  Chiclayo,  sierra
+133,tienda 133,Piura  ,SIERRA  
+134,Tienda 134,  TRUJILLO,Costa  
+135,  Tienda 135,  lima  ,Sierra  
+136,  Tienda 136,  PIURA,costa
+137,  tienda 137  ,Cusco,  sierra
+138,Tienda 138  ,Piura,Costa
+139,  Tienda 139  ,  Trujillo  ,  Costa  
+140,tienda 140  ,,Sierra
+141,tienda 141,  Cusco,SIERRA
+142,TIENDA 142,  Trujillo,
+143,  Tienda 143,Cusco,  selva  
+144,Tienda 144  ,Piura,  Selva
+145,TIENDA 145,Lima,Sierra  
+146,  Tienda 146  ,  TRUJILLO,Sierra
+147,Tienda 147  ,IQUITOS,  costa
+148,  TIENDA 148,arequipa,SELVA  
+149,tienda 149  ,IQUITOS  ,  costa
+150,Tienda 150,  IQUITOS,costa
+151,  tienda 151,CHICLAYO,  COSTA
+152,  tienda 152,PIURA,  costa
+153,Tienda 153,  Trujillo,  Selva
+154,  Tienda 154  ,AREQUIPA,Costa
+155,Tienda 155  ,  Trujillo,Sierra
+156,  TIENDA 156  ,Piura  ,Sierra  
+157,  tienda 157,Trujillo,Sierra  
+158,  TIENDA 158,,Selva  
+159,TIENDA 159  ,PIURA,COSTA  
+160,tienda 160,  trujillo,SELVA
+161,  tienda 161,Chiclayo,  Costa  
+162,Tienda 162  ,lima,  Selva  
+163,TIENDA 163  ,  Trujillo  ,selva
+164,  Tienda 164,  cusco,  costa
+165,tienda 165  ,arequipa,Selva  
+166,Tienda 166,  Chiclayo,costa
+167,Tienda 167,Arequipa,  Sierra  
+168,Tienda 168,  Iquitos  ,SIERRA
+169,  tienda 169  ,chiclayo,SIERRA
+170,Tienda 170,arequipa,Selva  
+171,tienda 171  ,  Lima,Sierra
+172,  TIENDA 172,Cusco,Costa
+173,TIENDA 173,IQUITOS,  SIERRA
+174,  TIENDA 174,,  SIERRA  
+175,  Tienda 175,AREQUIPA  ,SELVA  
+176,  Tienda 176  ,CHICLAYO  ,  Costa
+177,tienda 177  ,  cusco  ,  selva  
+178,  TIENDA 178  ,Trujillo,selva  
+179,  Tienda 179  ,lima,Costa
+180,  TIENDA 180  ,Cusco,Selva
+181,  Tienda 181,Cusco  ,costa
+182,Tienda 182,,  Sierra  
+183,  Tienda 183,Cusco,  Costa
+184,tienda 184,Piura,  Costa
+185,Tienda 185,Lima  ,Costa
+186,  Tienda 186,  LIMA,SELVA
+187,TIENDA 187,TRUJILLO,COSTA
+188,  Tienda 188  ,Piura  ,  COSTA  
+189,Tienda 189,Piura,Costa
+190,tienda 190  ,Arequipa,Sierra
+191,  TIENDA 191,  Arequipa  ,  costa
+192,  TIENDA 192,  trujillo,  SELVA
+193,  Tienda 193,  LIMA  ,  Costa
+194,Tienda 194  ,  Tacna  ,costa  
+195,Tienda 195,  arequipa  ,  Sierra
+196,  TIENDA 196,Cusco,Costa  
+197,tienda 197  ,LIMA,  SELVA
+198,  tienda 198  ,  Tacna,  Costa
+199,  Tienda 199  ,,SELVA
+200,  Tienda 200  ,  Cusco,  SIERRA  
+201,  tienda 201,Chiclayo  ,  COSTA
+202,Tienda 202,  piura  ,  Sierra  
+203,  tienda 203  ,LIMA,costa  
+204,Tienda 204  ,Chiclayo  ,SELVA
+205,  Tienda 205,Trujillo  ,Sierra  
+206,tienda 206,,Costa  
+207,Tienda 207  ,  Piura,Selva  
+208,  Tienda 208,cusco,sierra
+209,Tienda 209,Chiclayo,  Costa  
+210,tienda 210  ,,  SIERRA  
+211,tienda 211  ,Arequipa  ,  Costa
+212,TIENDA 212,  Lima  ,Selva
+213,,Arequipa,selva
+214,  Tienda 214,cusco  ,  Sierra
+215,Tienda 215,TACNA  ,
+216,Tienda 216  ,iquitos  ,Costa
+217,Tienda 217,Cusco,selva
+218,  TIENDA 218,lima,Costa
+219,  Tienda 219,  Piura,  selva
+220,  Tienda 220  ,chiclayo,Sierra
